@@ -1,0 +1,12 @@
+{
+  "name": "herdr-files",
+  "version": "0.1.0",
+  "description": "Herdr plugin: browse the files and git history of the repository you are working in",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
