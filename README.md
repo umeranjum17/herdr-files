@@ -1,3 +1,11 @@
+> **Retired:** this plugin is retired — file tree, previews, and git history now ship built into [muxr](https://github.com/umeranjum17/muxr) (see its [README](https://github.com/umeranjum17/muxr#readme)). No install is needed. If you already installed this plugin, remove it with:
+>
+> ```sh
+> muxr plugin remove muxr.code
+> ```
+>
+> This repo is archived read-only.
+
 <h1 align="center">herdr-files</h1>
 
 <p align="center">
