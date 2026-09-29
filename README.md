@@ -63,6 +63,8 @@ Every RPC in the manifest is declared `mode: "read"`. Paths are resolved to thei
 
 ## Install
 
+> **Download:** herdr-files ships as source only — there are no release artifacts yet. Install with the command below; future packaged versions, if any, will appear under [releases](https://github.com/umeranjum17/herdr-files/releases).
+
 You need [Herdr](https://herdr.dev) 0.8.0 or newer, `node` 20 or newer on `PATH`, and `git` on `PATH`, on Linux or macOS. You also need a muxr app with declarative UI version 11 or newer. Any current self-host build qualifies; an older app lists the plugin as unavailable instead of showing part of it.
 
 ```sh
